@@ -1,4 +1,4 @@
-# tmp.py
+# inout.py
 # coding: utf-8
 
 from solve import solve
